@@ -51,11 +51,11 @@ When you are finished with lab, follow these steps to submit your work. Create o
  - Create a new Heroku app for deployment.
 1. As a developer, I want my app to run in a development environment that matches production, so that I can reduce bugs related to infrastructure surprises.
  - Start your app with `node server.js`
- - TODO: Refactor your AJAX request to proxy your GitHub API calls through the server as we did in class
+ - DONE: Refactor your AJAX request to proxy your GitHub API calls through the server as we did in class
 1. As a developer, I want my secret tokens accessed only through environment variables, so that I can keep them secure.
  - Set the proper env vars on your local system.
  - Ensure your code passes ESLint
- - DO NOT create your Heroku app with a default name. If you do accidentally, rename it. Or blow it away, and start again.
+ - DO NOT create your Heroku app with a default name. If you do accidentally, rename it. Or blow it away, and start again. DONE
  - Link to your live site in your README, for whichever repo you deploy.
 
 #### Stretch Goals  
