@@ -704,7 +704,7 @@
     throw new Error('process.binding is not supported');
   };
 
-// (shtylman)
+// DONE(shtylman)
   process.cwd = function () { return '/' };
   process.chdir = function (dir) {
     throw new Error('process.chdir is not supported');
