@@ -11,6 +11,14 @@ var app = app || {};
     //       Don't forget to remove the headers from our request - we're no longer using a token on the
     //       client side of our app, our new proxyGitHub function will be handling the token using our
     //       new environment variable!
+
+//     $.get('/github/user/repos')
+// .then(
+//   // render the data
+//   data => {
+//     data.forEach(repo => $('#results').append(`<p>${repo.name}</p>`))
+//   }
+// );
     $.ajax({
       url: `https://api.github.com/user/repos`,
       type: 'GET',
