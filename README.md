@@ -1,4 +1,9 @@
-![CF](https://i.imgur.com/7v5ASc8.png)  Lab 13: Heroku Deployment
+
+# My portfolio app can be found at:
+## https://amanda-portfolio.herokuapp.com/
+
+
+ ![CF](https://i.imgur.com/7v5ASc8.png)  Lab 13: Heroku Deployment
 =======
 [Code of Conduct](https://github.com/codefellows/code-of-conduct)
 
@@ -23,7 +28,7 @@ When you are finished with lab, follow these steps to submit your work. Create o
 
 ## Learning Objectives
 
-- Be able to push a dev site to production, so the world can see it.
+- Be able to push a dev site to production, so the world can see it
 - Understand the difference between a static page and a dynamically generated app page.
 
 ---
